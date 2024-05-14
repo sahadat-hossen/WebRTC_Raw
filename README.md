@@ -64,8 +64,6 @@ Signal server needs to be running for 8 on
 # CONNECTED!!
 
 <h5>Tuitorial</h5>
+https://www.youtube.com/watch?v=g42yNO_dxWQ
 
- <video  autoplay muted loop playsinline preload="metadata">
-     <source src="https://www.youtube.com/watch?v=g42yNO_dxWQ" type="video/mp4" />
- </video>
 

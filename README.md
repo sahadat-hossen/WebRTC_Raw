@@ -1,5 +1,5 @@
 # Run:
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass <br/>
 nodemon .\server.js
 
 # Setup https:

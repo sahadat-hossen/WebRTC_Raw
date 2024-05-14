@@ -62,3 +62,5 @@ Signal server needs to be running for 8 on
 ## 21 & 23 are waiting for ICE candidates. 
     - Once they are exchanged, tracks will exchange
 # CONNECTED!!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g42yNO_dxWQ?si=VSESA30Q-wAsb00P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

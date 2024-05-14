@@ -63,4 +63,9 @@ Signal server needs to be running for 8 on
     - Once they are exchanged, tracks will exchange
 # CONNECTED!!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g42yNO_dxWQ?si=VSESA30Q-wAsb00P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h5>Tuitorial</h5>
+
+ <video  autoplay muted loop playsinline preload="metadata">
+     <source src="https://www.youtube.com/watch?v=g42yNO_dxWQ" type="video/mp4" />
+ </video>
+

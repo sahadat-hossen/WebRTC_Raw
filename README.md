@@ -1,3 +1,7 @@
+# Run:
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+nodemon .\server.js
+
 # Setup https:
 1. npm install mkcert -g
 2. mkcert create-ca
